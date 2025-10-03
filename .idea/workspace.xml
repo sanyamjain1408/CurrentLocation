@@ -16,42 +16,56 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6592f33d-5d50-4870-8f57-044f46ff006c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/example/a18_spinner/ExampleInstrumentedTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/a18_spinner/MainActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Android Projects.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/17_Project/app/src/androidTest/java/com/example/a17_project/ExampleInstrumentedTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/17_Project/app/src/androidTest/java/com/example/a17_project/ExampleInstrumentedTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/17_Project/gradle/libs.versions.toml" beforeDir="false" afterPath="$PROJECT_DIR$/17_Project/gradle/libs.versions.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/17_Project/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/17_Project/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/17_Project/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/17_Project/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/17_Project/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/17_Project/settings.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20_get_data_using_volley/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/20_get_data_using_volley/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20_get_data_using_volley/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/20_get_data_using_volley/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20_get_data_using_volley/gradle/libs.versions.toml" beforeDir="false" afterPath="$PROJECT_DIR$/20_get_data_using_volley/gradle/libs.versions.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Report of Minore Project.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/emoji.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/emoji.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/nature.avif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/signup.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/example/showcurrentlocation/ExampleInstrumentedTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/example/showcurrentlocation/ExampleInstrumentedTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/libs.versions.toml" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/libs.versions.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mapsTesting/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/mapsTesting/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mapsTesting/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mapsTesting/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mapsTesting/app/src/androidTest/java/com/example/mapstesting/ExampleInstrumentedTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/mapsTesting/app/src/androidTest/java/com/example/mapstesting/ExampleInstrumentedTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mapsTesting/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/mapsTesting/gradle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mapsTesting/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mapsTesting/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mapsTesting/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/mapsTesting/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mapsTesting/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/mapsTesting/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mapsTesting/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/mapsTesting/gradlew.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mapsTesting/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/mapsTesting/settings.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+    <list default="true" id="6592f33d-5d50-4870-8f57-044f46ff006c" name="Changes" comment="initial Commit">
+      <change afterPath="$PROJECT_DIR$/../HairStyler" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hair/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hair/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hair/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hair/.idea/AndroidProjectSystem.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hair/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hair/.idea/deploymentTargetSelector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hair/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hair/.idea/migrations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hair/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hair/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hair/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hair/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hair/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hair/app/src/androidTest/java/com/example/hair/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hair/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hair/app/src/main/java/com/example/hair/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hair/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hair/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hair/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hair/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hair/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hair/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hair/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hair/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hair/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hair/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hair/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hair/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hair/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hair/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hair/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hair/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hair/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hair/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hair/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hair/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hair/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hair/app/src/test/java/com/example/hair/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hair/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hair/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hair/gradle/libs.versions.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hair/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hair/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hair/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hair/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hair/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weather_app" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +75,7 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[DeviceId(pluginId=LocalEmulator, isTemplate=false, identifier=path=C:\Users\sanya\.android\avd\Pixel_7.avd)]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -85,7 +99,7 @@
     </system>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -118,9 +132,9 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "Merging main",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "D:/projects/showcurrentlocation",
-    "settings.editor.selected.configurable": "vcs.Git",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
@@ -210,7 +224,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="tt" />
-    <option name="LAST_COMMIT_MESSAGE" value="tt" />
+    <MESSAGE value="initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial Commit" />
   </component>
   <component name="play_dynamic_filters_status">
     <option name="appIdToCheckInfo">
