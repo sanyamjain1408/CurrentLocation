@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.showcurrentlocation.app-mergeDebugResources-34:/layout/activity_main.xml",
+        "source": "com.example.showcurrentlocation.app-main-37:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\sanya\\.gradle\\daemon\\8.13\\com.example.showcurrentlocation.app-mergeDebugResources-34:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\sanya\\.gradle\\daemon\\8.13\\com.example.showcurrentlocation.app-main-37:\\layout\\activity_main.xml"
+    }
+]
